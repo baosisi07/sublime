@@ -1,45 +1,48 @@
-sublimeÏÂÔØ¼°°²×°
+sublimeä¸‹è½½åŠå®‰è£…
 http://www.sublimetext.com/
 
-package controlÏÂÔØ¼°°²×°
+package controlä¸‹è½½åŠå®‰è£…
 https://github.com/wbond/package_control
+1.ç‚¹å‡»Preferences > Browse Packagesèœå•
+2.è¿›å…¥æ‰“å¼€çš„ç›®å½• \Sublime Text 3\Packages
+3.å°†ä¸‹å†…å®¹è§£å‹ã€å¤åˆ¶åˆ°\Sublime Text 3\Packagesç›®å½• å¹¶é‡å‘½åä¸ºPackage Control(æ³¨æ„å¤§å°å†™)
+4.é‡å¯Sublime Textã€‚
 
-
-³£ÓÃ²å¼ş°²×°
-(1.°´ÏÂCtrl+Shift+Pµ÷³öÃüÁîÃæ°å 2.ÊäÈëinstall µ÷³ö Install Package Ñ¡Ïî²¢»Ø³µ£¬È»ºóÔÚÁĞ±íÖĞÑ¡ÖĞÒª°²×°µÄ²å¼şÃû³Æ²¢»Ø³µ )
+å¸¸ç”¨æ’ä»¶å®‰è£…
+(1.æŒ‰ä¸‹Ctrl+Shift+Pè°ƒå‡ºå‘½ä»¤é¢æ¿ 2.è¾“å…¥install è°ƒå‡º Install Package é€‰é¡¹å¹¶å›è½¦ï¼Œç„¶ååœ¨åˆ—è¡¨ä¸­é€‰ä¸­è¦å®‰è£…çš„æ’ä»¶åç§°å¹¶å›è½¦ )
 
 1. ChineseLocalizations
-Ò»ÖÖÈÃsublimeºº»¯µÄ²å¼ş
+ä¸€ç§è®©sublimeæ±‰åŒ–çš„æ’ä»¶
 
 2.html5
-ÊäÈëHTML5>ÇÃ»÷Tab¼ü
+è¾“å…¥HTML5>æ•²å‡»Tabé”®
 
-3. Emmet£¨Ô­Ãû Zen Coding£©
-Ò»ÖÖ¿ìËÙ±àĞ´html/cssµÄ·½·¨
+3. Emmetï¼ˆåŸå Zen Codingï¼‰
+ä¸€ç§å¿«é€Ÿç¼–å†™html/cssçš„æ–¹æ³•
 
 4. BracketHighlighter
-ÀàËÆÓÚ´úÂëÆ¥Åä£¬¿ÉÒÔÆ¥ÅäÀ¨ºÅ£¬ÒıºÅµÈ·ûºÅÄÚµÄ·¶Î§¡£
+ç±»ä¼¼äºä»£ç åŒ¹é…ï¼Œå¯ä»¥åŒ¹é…æ‹¬å·ï¼Œå¼•å·ç­‰ç¬¦å·å†…çš„èŒƒå›´ã€‚
 
 5.Autoprefixer
-CSS3 Ë½ÓĞÇ°×º×Ô¶¯²¹È«²å¼ş
+CSS3 ç§æœ‰å‰ç¼€è‡ªåŠ¨è¡¥å…¨æ’ä»¶
 
 6.HTML-CSS-JS Prettify
-Ê¹ÓÃËµÃ÷£º¿ìËÙ¸ñÊ½»¯html css js
-¿ì½İ¼ü£ºctrl+shift+h
+ä½¿ç”¨è¯´æ˜ï¼šå¿«é€Ÿæ ¼å¼åŒ–html css js
+å¿«æ·é”®ï¼šctrl+shift+h
 
 7.Colorpicker
-Ê¹ÓÃÒ»¸öÈ¡É«Æ÷¸Ä±äÑÕÉ«
-¿ì½İ¼ü£ºctrl+shift+c
+ä½¿ç”¨ä¸€ä¸ªå–è‰²å™¨æ”¹å˜é¢œè‰²
+å¿«æ·é”®ï¼šctrl+shift+c
 
-8. AutoFileName£¨²¹È«src¡¢hrefÎÄ¼şÂ·¾¶£©
+8. AutoFileNameï¼ˆè¡¥å…¨srcã€hrefæ–‡ä»¶è·¯å¾„ï¼‰
 
-9.SublimeLinter-jshint £¨Ğè°²×°node.jsºÍjshint|| npm install -g jshint£©
+9.SublimeLinter-jshint ï¼ˆéœ€å®‰è£…node.jså’Œjshint|| npm install -g jshintï¼‰
 
-10.SublimeLinter-csslint (Ğè°²×°csslint|| npm install -g csslint)
+10.SublimeLinter-csslint (éœ€å®‰è£…csslint|| npm install -g csslint)
 
-´úÂëÍ¬²½¹ÜÀí²å¼ş
-1.git Ìá¹©Git³£ÓÃµÄÃüÁî¼¯ºÏ£¨Ğè°²×°git¿Í»§¶Ë²¢Íê³ÉÅäÖÃ£©
+ä»£ç åŒæ­¥ç®¡ç†æ’ä»¶
+1.git æä¾›Gitå¸¸ç”¨çš„å‘½ä»¤é›†åˆï¼ˆéœ€å®‰è£…gitå®¢æˆ·ç«¯å¹¶å®Œæˆé…ç½®ï¼‰
 
 2.TortoiseSVN
-¿ì½İ¼ü£ºALT+C Ìá½»ÎÄ¼ş   ALT+U ¸üĞÂÎÄ¼ş   ALT+R »Ö¸´ÎÄ¼ş 
-Ä¿Â¼ÉÏÓÒ¼ü¿É²Ù×÷Õû¸öÎÄ¼ş¼Ğ
+å¿«æ·é”®ï¼šALT+C æäº¤æ–‡ä»¶   ALT+U æ›´æ–°æ–‡ä»¶   ALT+R æ¢å¤æ–‡ä»¶ 
+ç›®å½•ä¸Šå³é”®å¯æ“ä½œæ•´ä¸ªæ–‡ä»¶å¤¹
