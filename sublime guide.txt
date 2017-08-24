@@ -1,8 +1,8 @@
 sublime下载及安装
-http://www.sublimetext.com/
+<a>http://www.sublimetext.com/</a>
 
 package control下载及安装
-https://github.com/wbond/package_control
+<a>https://github.com/wbond/package_control</a>
 1.点击Preferences > Browse Packages菜单
 2.进入打开的目录 \Sublime Text 3\Packages
 3.将下内容解压、复制到\Sublime Text 3\Packages目录 并重命名为Package Control(注意大小写)
